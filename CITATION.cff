@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Cortes
+    given-names: Daniel
+    orcid: 
+  - family-names: Leinhauser
+    given-names: Matthew
+    orcid: 
+  - family-names: Gutta
+    given-names: Vineeth
+    orcid: https://orcid.org/0000-0002-1382-8128
+  
+title: "Medical Supply Allocation for Hospitals during theCOVID-19 Pandemic Using Nash Equilibria"
+version: 1.0
+repository-code: "https://github.com/dyclone/Game-Theory-Project-Hospital-Nash.git"
+date-released: 2021-12-15
